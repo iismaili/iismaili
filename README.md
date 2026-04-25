@@ -10,8 +10,8 @@
   
   <p>
     <a href="www.linkedin.com/in/ismail-yıldırım-6b7395279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="[https://twitter.com/](https://x.com/echo_ismail)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="[https://instagram.com/](https://www.instagram.com/echo.ismail?igsh=OXBpdjB4aTB2cWpp)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="(https://x.com/echo_ismail)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="(https://www.instagram.com/echo.ismail?igsh=OXBpdjB4aTB2cWpp)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=iismaili&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
