@@ -4,16 +4,18 @@
 
 <br>
 
-## 🧠 Who I Am
+### 🧠 Who I Am
 
-- ⚡ Passionate about crafting efficient code and digital experiences
-- 🧩 Problem solver who enjoys taking concepts from zero to production
-- 🛡️ Deeply interested in Cybersecurity and securing digital ecosystems
-- 🚀 Lifelong learner exploring modern web technologies and AI
-- 📈 Dedicated to writing clean, maintainable, and scalable code
-- 🎯 Fuelled by curiosity. Driven by logic. Focused on impact.
+⚡ Passionate about crafting efficient code and digital experiences<br>
+🧩 Problem solver who enjoys taking concepts from zero to production<br>
+🛡️ Deeply interested in Cybersecurity and securing digital ecosystems<br>
+🚀 Lifelong learner exploring modern web technologies and AI<br>
+📈 Dedicated to writing clean, maintainable, and scalable code<br>
+🎯 Fuelled by curiosity. Driven by logic. Focused on impact.<br>
 
-## ⚙️ Engineering Mindset
+<br>
+
+### ⚙️ Engineering Mindset
 
 ```javascript
 while (alive) {
