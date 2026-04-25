@@ -21,7 +21,7 @@
 <hr>
 <br>
 
-<img align="right" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="220" />
+<img align="right" src="BURAYA_GIF_LINKINI_YAPISTIR" width="250" />
 
 ### 🧠 Who I Am
 
