@@ -24,3 +24,40 @@ while (alive) {
     refactor();
 }
 // Perfection is a direction, not a destination.
+```
+
+<br>
+
+### 🚀 Tech Stack
+
+**💻 Languages**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,c,php" />
+</a>
+
+<br><br>
+
+**⚙️ Frameworks**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
+</a>
+
+<br><br>
+
+**🗄️ Database**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<br><br>
+
+**🧰 Tools**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
+</a>
+
+<br><br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iismaili&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
