@@ -9,9 +9,9 @@
   <p><b>Welcome to my profile! I am passionate about software development, striving to create clean, modern, and performant solutions.</b></p>
   
   <p>
-    <a href="www.linkedin.com/in/ismail-yıldırım-6b7395279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="(https://x.com/echo_ismail)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="(https://www.instagram.com/echo.ismail?igsh=OXBpdjB4aTB2cWpp)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.linkedin.com/in/ismail-yıldırım-6b7395279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://x.com/echo_ismail"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="https://www.instagram.com/echo.ismail?igsh=OXBpdjB4aTB2cWpp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=iismaili&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
@@ -20,6 +20,8 @@
 <br>
 <hr>
 <br>
+
+<img align="right" src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="220" />
 
 ### 🧠 Who I Am
 
@@ -30,9 +32,9 @@
 📈 Dedicated to writing clean, maintainable, and scalable code<br>
 🎯 Fuelled by curiosity. Driven by logic. Focused on impact.<br>
 
-<br>
+<br><br>
 
-### ⚙️ My Philosophy
+### ⚙️ Engineering Mindset
 
 ```javascript
 while (alive) {
