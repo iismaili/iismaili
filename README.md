@@ -51,7 +51,7 @@ while (alive) {
 
 **💻 Languages**<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,c,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,c,php,python" />
 </a>
 
 <br><br>
