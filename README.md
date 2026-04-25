@@ -1,7 +1,24 @@
-<h1 align="center">Hi there, I'm İsmail Şaban Yıldırım 👋</h1>
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer GIF">
 
-<h3 align="center">Welcome to my profile! I am passionate about software development, striving to create clean, modern, and performant solutions.</h3>
+  <h1>Hi there, I'm İsmail Şaban Yıldırım 👋</h1>
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Developer;System+Builder;Cybersecurity+Enthusiast" alt="Typing SVG" />
+
+  <p><b>Welcome to my profile! I am passionate about software development, striving to create clean, modern, and performant solutions.</b></p>
+  
+  <p>
+    <a href="www.linkedin.com/in/ismail-yıldırım-6b7395279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="[https://twitter.com/](https://x.com/echo_ismail)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="[https://instagram.com/](https://www.instagram.com/echo.ismail?igsh=OXBpdjB4aTB2cWpp)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=iismaili&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
+</div>
+
+<br>
+<hr>
 <br>
 
 ### 🧠 Who I Am
@@ -15,7 +32,7 @@
 
 <br>
 
-### ⚙️ Engineering Mindset
+### ⚙️ My Philosophy
 
 ```javascript
 while (alive) {
@@ -57,7 +74,12 @@ while (alive) {
 </a>
 
 <br><br>
+<hr>
+<br>
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iismaili&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iismaili&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
