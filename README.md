@@ -34,7 +34,7 @@
 
 <br><br>
 
-### ⚙️ Engineering Mindset
+### ⚙️ My Philosophy
 
 ```javascript
 while (alive) {
