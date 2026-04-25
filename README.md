@@ -21,7 +21,7 @@
 <hr>
 <br>
 
-<img align="right" src="(https://camo.githubusercontent.com/958df95703ef53e2517c75d59599761f2aa1cee6f036d73084cec87653fc1a58/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966)" width="250" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdqYzlkMDAwZW9ma2lraXB6cHV6NXBjZzEwbmE4YzY0ZmtrN3o3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
 
 ### 🧠 Who I Am
 
