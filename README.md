@@ -14,7 +14,6 @@
     <a href="https://www.instagram.com/echo.ismail?igsh=OXBpdjB4aTB2cWpp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=iismaili&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
 </div>
 
 <br>
