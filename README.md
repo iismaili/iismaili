@@ -6,7 +6,6 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Developer;System+Builder;Cybersecurity+Enthusiast" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=kullanici_adiniz&color=blue&style=flat-back)
   <p><b>Welcome to my profile! I am passionate about software development, striving to create clean, modern, and performant solutions.</b></p>
   
   <p>
